@@ -1,0 +1,17 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+artifacts
+drizzle/meta/*.bin
+*.tsbuildinfo
+.cache
+Dockerfile*
+docker-compose*.yml
+.git
+
+test-results
+playwright-report
+.agents
+skills-lock.json

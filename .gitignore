@@ -1,0 +1,17 @@
+node_modules
+.next
+.env
+.env.local
+.env.*.local
+artifacts
+drizzle/meta/*.bin
+*.tsbuildinfo
+.cache
+*.log
+.DS_Store
+
+test-results
+playwright-report
+
+__pycache__/
+*.py[cod]

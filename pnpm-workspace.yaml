@@ -1,0 +1,9 @@
+overrides:
+  "eslint": "10.13.0"
+  "source-map-js": "1.2.2"
+  "@tailwindcss/oxide-wasm32-wasi": "4.3.3"
+allowBuilds:
+  esbuild: false
+  unrs-resolver: false
+  argon2: false
+  libpq: false

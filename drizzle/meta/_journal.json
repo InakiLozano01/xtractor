@@ -1,0 +1,9 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "tags": ["0001_initial", "0002_public_auth"],
+  "entries": [
+    { "idx": 0, "version": "7", "when": 1750000000000, "tag": "0001_initial", "breakpoints": true },
+    { "idx": 1, "version": "7", "when": 1783080958122, "tag": "0002_public_auth", "breakpoints": true }
+  ]
+}
